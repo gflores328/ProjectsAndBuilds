@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54b5074173838094eb4e724582406e2f, type: 3}
+  m_Name: Turret_1
+  m_EditorClassIdentifier: 
+  towerName: Turret Lv.1
+  cost: 70
+  sellPrice: 25
+  baseRange: 2
+  upgradeCost: 120
+  description: "Fires low damaging bullets at a fast interval\nCost: $70\tSize: 1x2"
+  fireCoolDown: 0.2
+  projectileSpeed: 12
+  damage: 0.3
